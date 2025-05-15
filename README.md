@@ -12,6 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ARUNAGIRINATHAN-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
