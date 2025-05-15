@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Arunagirinathan<br>🎓 B.Tech in Artificial Intelligence and Data Science | Class of 2027<br>🚀 Building AI-driven solutions in Python, Java, and JavaScript<br>🧠 Passionate about Data Science, Cybersecurity, and Quantum AI
-
-
+#
+<img src="https://assets10.lottiefiles.com/packages/lf20_jtbfg2nb.json" width="300" />
+#
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arunagirinathan-k) 
 
