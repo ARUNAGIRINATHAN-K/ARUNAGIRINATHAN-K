@@ -39,14 +39,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ARUNAGIRINATHAN-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔥 GitHub Stats & Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=tokyonight&hide_border=true)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
