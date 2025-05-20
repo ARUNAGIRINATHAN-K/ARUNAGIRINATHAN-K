@@ -11,6 +11,8 @@
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
 <br/> 
 
+<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="a56ea7d7-6492-4698-9277-3f60d7938fc3.jpeg" align="center" style="width: 100%" alt="Manul Thanura" /></a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
