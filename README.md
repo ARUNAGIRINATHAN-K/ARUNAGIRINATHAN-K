@@ -1,4 +1,4 @@
-<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="HelloWorld!.jpg" align="center" style="width: 100%" alt="Manul Thanura" /></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Hello World!.jpg" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
 <a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Computer Code GIF - Computer Code Decrypting - Discover & Share GIFs.gif" align="center" style="width: 100%" alt="Manul Thanura" /></a>
 
@@ -15,7 +15,7 @@
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
 <br/> 
 
-<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Types Of software Developers.jpg" align="center" style="width: 100%" alt="Manul Thanura" /></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Types Of software Developers.jpg" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
 
 # 📊 GitHub Stats:
