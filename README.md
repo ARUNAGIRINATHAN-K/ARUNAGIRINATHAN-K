@@ -1,6 +1,6 @@
 <a href="https://github.com/ARUNAGIRINATHAN-K"><img src="gitbanner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
-<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Computer Code GIF - Computer Code Decrypting - Discover & Share GIFs.gif" align="center" style="width: 100%" alt="Manul Thanura" /></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Banner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
 # 💫 About Me:
 👋 Hi, I'm Arunagirinathan<br>🎓 B.Tech in Artificial Intelligence and Data Science | Class of 2027<br>🚀 Building AI-driven solutions in Python, Java, and JavaScript<br>🧠 Passionate about Data Science, Cybersecurity, and Quantum AI
@@ -15,7 +15,7 @@
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
 <br/> 
 
-<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Types Of software Developers.jpg" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
+
 
 
 # 📊 GitHub Stats:
