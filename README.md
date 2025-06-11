@@ -3,7 +3,7 @@
 <a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Banner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
 # 💫 About Me:
-👋 Hi, I'm Arunagirinathan<br>🎓 B.Tech in Artificial Intelligence and Data Science | Class of 2027<br>🚀 Building AI-driven solutions in Python, Java, and JavaScript<br>🧠 Passionate about Data Science, Cybersecurity, and Quantum AI
+👋 Hi, I'm Arunagirinathan<br> AI + Data Science Student | Research Contributor |Startup-Focused Innovator<br> AI & Full-Stack Developer | Building Scalable Tech for Impact | Building AI-driven solutions<br>🧠 Passionate about Data Science, Cybersecurity, and Quantum AI
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arunagirinathan-k) 
 
