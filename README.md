@@ -6,6 +6,7 @@
 👋 Hi, I'm Arunagirinathan<br> AI + Data Science Student | Research Contributor |Startup-Focused Innovator<br> AI & Full-Stack Developer | Building Scalable Tech for Impact | Building AI-driven solutions<br>🧠 Passionate about Data Science, Cybersecurity, and Quantum AI
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunagirinathan-k) 
+[Kaggle](https://www.kaggle.com/)
 
 ## Experience 🧑🏻‍💻
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,nodejs,mysql&perline=6" alt="Languages" /> -->
