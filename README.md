@@ -23,8 +23,9 @@
 
 # <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=ARUNAGIRINATHAN-K" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=ARUNAGIRINATHAN-K" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark" height="150" />
 </div>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
