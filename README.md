@@ -27,8 +27,22 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Wakatime stats (must be public) -->
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARUNAGIRINATHAN&theme=dark)](https://wakatime.com/ARUNAGIRINATHAN)
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark)
+
+  [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
 
