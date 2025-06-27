@@ -27,6 +27,11 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<!-- Wakatime stats (must be public) -->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARUNAGIRINATHAN&theme=dark)](https://wakatime.com/ARUNAGIRINATHAN)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
