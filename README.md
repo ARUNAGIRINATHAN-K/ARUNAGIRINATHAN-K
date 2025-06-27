@@ -32,6 +32,8 @@
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
 </div>
 
 
