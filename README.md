@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunagirinathan-k) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/arunsworkspac)
 
-
 ## Experience 🧑🏻‍💻
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,nodejs,mysql&perline=6" alt="Languages" /> -->
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,r,nodejs,mysql,bootstrap,tailwindcss,react,nextjs,flask,django,tensorflow,sklearn,anaconda,bash,vscode,pycharm,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,aws,docker,windows,linux,ubuntu&perline=16" alt="Languages" />
@@ -17,9 +16,6 @@
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,sklearn,jquery&perline=6" alt="Frameworks" /> -->
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
 <br/> 
-
-
-
 
 # <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
