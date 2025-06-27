@@ -19,15 +19,6 @@
 
 # <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark" height="150" />
-</div>
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark)
   
@@ -35,7 +26,7 @@
   
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark)
 
-  [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
   
@@ -43,8 +34,6 @@
 
 </div>
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -55,6 +44,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ARUNAGIRINATHAN-K&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
