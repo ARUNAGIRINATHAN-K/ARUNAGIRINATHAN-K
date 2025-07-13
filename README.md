@@ -3,7 +3,12 @@
 <a href="https://github.com/arun-techverse"><img src="Banner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
 # 💫 About Me:
-👋 Hi, I'm Arunagirinathan<br> AI + Data Science Student | Research Contributor |Startup-Focused Innovator<br> AI & Full-Stack Developer | Building Scalable Tech for Impact | Building AI-driven solutions<br>🧠 Passionate about Data Science, Cybersecurity, and Quantum AI
+## **👋 Hi, I'm Arunagirinathan** <br> 
+**AI + Data Science Student | Research Contributor |Startup-Focused Innovator** <br>
+**AI & Full-Stack Developer | Turning Ideas into Intelligent Systems** <br>
+**Passionate about Data Science, Cybersecurity, and Quantum AI**<br> 
+**Engineering the Future with AI, Cloud & Code** <br>
+**"AI x Cloud x Security | Building the Future, One Model at a Time"**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunagirinathan-k) 
