@@ -16,7 +16,7 @@
 
 ## Experience 🧑🏻‍💻
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,nodejs,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,r,nodejs,mysql,bootstrap,tailwindcss,react,nextjs,flask,django,tensorflow,sklearn,anaconda,bash,vscode,pycharm,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,aws,docker,windows,linux,ubuntu&perline=16" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,r,nodejs,mysql,bootstrap,tailwindcss,react,nextjs,flask,django,tensorflow,sklearn,anaconda,bash,vscode,pycharm,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,aws,ubuntu&perline=16" alt="Languages" />
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,sklearn,jquery&perline=6" alt="Frameworks" /> -->
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
