@@ -23,7 +23,7 @@
 <br/> 
 
 ## 🏙 My GitHub Skyline
-[![Skyline](https://github.com/arun-techverse.png)](https://skyline.github.com/ARUNAGIRINATHAN-K)
+[![Skyline](https://github.com/ARUNAGIRINATHAN-K.png)](https://skyline.github.com/ARUNAGIRINATHAN-K)
 
 # <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
