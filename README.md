@@ -1,6 +1,6 @@
-<a href="https://github.com/Singularity2K"><img src="gitbanner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="gitbanner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
-<a href="https://github.com/Singularity2K"><img src="Banner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Banner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
 
 # 💫 About Me:
 ## **👋 Hi, I'm Arunagirinathan** <br> 
@@ -23,20 +23,20 @@
 <br/> 
 
 ## 🏙 My GitHub Skyline
-[![Skyline](https://github.com/arun-techverse.png)](https://skyline.github.com/Singularity2K)
+[![Skyline](https://github.com/arun-techverse.png)](https://skyline.github.com/ARUNAGIRINATHAN-K)
 
 # <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Singularity2K&show_icons=true&count_private=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Singularity2K&layout=compact&langs_count=5&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark)
   
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Singularity2K&theme=dark)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark)
 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Singularity2K&style=flat-square&color=blue)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -45,11 +45,11 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Singularity2K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Singularity2K&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
