@@ -1,6 +1,6 @@
-<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="gitbanner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<a href="https://github.com/ARUNAGIRINATHAN-K"><img src="Banner.png" align="center" style="width: 100%" alt="ARRUNAGIRINATHAN" /></a>
+
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> <br>
