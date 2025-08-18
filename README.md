@@ -12,12 +12,10 @@
 ![stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/your-repository-name?style=flat&logo=github&label=stars)
 ## Engineering AI for a better tomorrow — AI Prodigy in progress
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><br>
-**AI + Data Science Student | Research Contributor |Startup-Focused Innovator** <br>
 **AI & Full-Stack Developer | Turning Ideas into Intelligent Systems** <br>
-**Passionate about Data Science, Cybersecurity, and Quantum AI**<br> 
-**Engineering the Future with AI, Cloud & Code** <br>
-**AI x Cloud x Security | Building the Future, One Model at a Time**
-
+**Building innovative solutions in web development and automation.<br>
+Contributing to open-source projects with a focus on generative AI and cutting-edge tech.<br>
+Always exploring new ways to code, create, and collaborate.**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunagirinathan-k) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/arunsworkspac)
