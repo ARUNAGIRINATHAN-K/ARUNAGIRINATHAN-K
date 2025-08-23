@@ -37,7 +37,9 @@ Always exploring new ways to code, create, and collaborate.**
 Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** Calculating...
+🏆 **GitHub Score:** 804
+
+📊 (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 <!--SCORE_END-->
 
 
