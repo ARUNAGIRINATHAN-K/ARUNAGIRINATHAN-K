@@ -37,12 +37,12 @@ Always exploring new ways to code, create, and collaborate.**
 Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** 804
+🏆 **GitHub Score:** 806
 
 📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
 🎮 **Level 1**
-[▓▓▓▓▓▓░░░░] 60%
+[▓▓▓▓▓▓░░░░] 61%
 <!--SCORE_END-->
 
 
