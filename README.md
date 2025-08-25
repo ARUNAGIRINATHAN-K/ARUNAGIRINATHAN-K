@@ -5,12 +5,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> <br>
 # About Me:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
-# Hi, I'm Arunagirinathan*
+# Hi, I'm ARUNAGIRINATHAN
 ![wakatime](https://img.shields.io/badge/wakatime-123%20hrs%2030%20mins-blue?style=flat)
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
 ![stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/your-repository-name?style=flat&logo=github&label=stars)
-## Engineering AI for a better tomorrow — AI Prodigy in progress
+## Engineering AI for a better tomorrow | AI Prodigy in progress
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><br>
 **AI & Full-Stack Developer | Turning Ideas into Intelligent Systems** <br>
 **Building innovative solutions in web development and automation.<br>
