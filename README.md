@@ -7,7 +7,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 # Hi, I'm ARUNAGIRINATHAN
 [![Portfolio](https://img.shields.io/badge/Website-Visit-brightgreen?logo=google-chrome&logoColor=white)](https://arunagirinathan-k.github.io/My-Portfolio/)
-![wakatime](https://img.shields.io/badge/wakatime-123%20hrs%2030%20mins-blue?style=flat)
+![wakatime](https://img.shields.io/badge/wakatime-2%20hrs%2030%20mins-blue?style=flat)
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
