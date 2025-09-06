@@ -11,13 +11,9 @@
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
-
-## Engineering AI for a better tomorrow | AI Prodigy in progress
+# ✨ TRUST ME I'M AN ENGINEER
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><br>
-**AI & Full-Stack Developer | Turning Ideas into Intelligent Systems** <br>
-**Building innovative solutions in web development and automation.<br>
-Contributing to open-source projects with a focus on generative AI and cutting-edge tech.<br>
-Always exploring new ways to code, create, and collaborate.**
+I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science applications, and NLP-driven solutions, with skills in **Python, Java, Tensorflow, LLM and Power BI**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunagirinathan-k) 
 [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/arunsworkspac)
