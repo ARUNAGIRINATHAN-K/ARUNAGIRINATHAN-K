@@ -11,6 +11,8 @@
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
+![Build Status](https://img.shields.io/github/actions/workflow/status/ARUNAGIRINATHAN-K/.github/workflows/update_score.yml)
+![Coverage](https://img.shields.io/codecov/c/github/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K)
 # ✨ TRUST ME I'M AN ENGINEER
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><br>
 I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science applications, and NLP-driven solutions, with skills in **Python, Java, Tensorflow, LLM and Power BI**
