@@ -38,6 +38,20 @@ I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science appl
 ## 🏙 My GitHub Skyline
 <br><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><br>
 
+## ✍️ My Articles  
+
+<p align="center">
+  <a href="https://medium.com/@arun31.march.2k6">
+    <img src="https://img.shields.io/badge/Read%20on-Medium-black?style=for-the-badge&logo=medium" alt="Medium Article"/>
+  </a>
+  
+ ### 📌 Featured Articles  
+[Multimodal large language models (MLLMs)](https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e)  
+[Learning Neural Networks from Scratch: My Journey into the Mathematics of AI](https://medium.com/@your-username/article-link-2)  
+  
+</p>
+
+
 # Hi there 👋
 
 Here’s my GitHub Score, updated daily:
