@@ -42,11 +42,11 @@ I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science appl
 
 <p align="center">
   <a href="https://medium.com/@arun31.march.2k6/learning-neural-networks-from-scratch-my-journey-into-the-mathematics-of-ai-ea2081d43b6b">
-    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/1_NiOsrWGRuJ9CT3RthqMYOw.webp" alt="Article 1" width="300"/>
+    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/1_NiOsrWGRuJ9CT3RthqMYOw.webp" alt="Article 1" width="200"/>
   </a>
 
   <a href="(https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e">
-    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2010_08_20%20AM.png" alt="Article 2" width="300"/>
+    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2010_08_20%20AM.png" alt="Article 2" width="200"/>
   </a>
 </p>
 
