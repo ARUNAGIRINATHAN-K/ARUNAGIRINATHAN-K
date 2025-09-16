@@ -6,30 +6,37 @@ TOKEN = os.getenv("GITHUB_TOKEN", None)  # GitHub Actions provides this automati
 
 headers = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
 
-# Get user data
+# --- Get user data ---
 user = requests.get(f"https://api.github.com/users/{USERNAME}", headers=headers).json()
 repos = requests.get(f"https://api.github.com/users/{USERNAME}/repos?per_page=100", headers=headers).json()
-events = requests.get(f"https://api.github.com/users/{USERNAME}/events", headers=headers).json()
+events = requests.get(f"https://api.github.com/users/{USERNAME}/events/public", headers=headers).json()
 
+# Make sure repos/events are lists
+if not isinstance(repos, list):
+    repos = []
+if not isinstance(events, list):
+    events = []
+
+# --- Extract stats ---
 followers = user.get("followers", 0)
-stars = sum(repo["stargazers_count"] for repo in repos)
-forks = sum(repo["forks_count"] for repo in repos)
-prs = sum(1 for e in events if e["type"] == "PullRequestEvent")
-issues = sum(1 for e in events if e["type"] == "IssuesEvent")
-commits = sum(len(e["payload"]["commits"]) for e in events if e["type"] == "PushEvent")
+stars = sum(repo.get("stargazers_count", 0) for repo in repos)
+forks = sum(repo.get("forks_count", 0) for repo in repos)
+prs = sum(1 for e in events if e.get("type") == "PullRequestEvent")
+issues = sum(1 for e in events if e.get("type") == "IssuesEvent")
+commits = sum(len(e["payload"].get("commits", [])) for e in events if e.get("type") == "PushEvent")
 
-# Custom formula
+# --- Custom formula ---
 score = (commits * 0.5) + (stars * 5) + (forks * 3) + (prs * 4) + (issues * 2) + (followers * 2)
 
-# Level system
+# --- Level system ---
 level = int(score // 500)
 progress = int((score % 500) / 500 * 100)
 
-# Create progress bar (10 blocks)
+# --- Progress bar (10 blocks) ---
 filled = progress // 10
 bar = "▓" * filled + "░" * (10 - filled)
 
-# Update README
+# --- Update README ---
 with open("README.md", "r") as f:
     content = f.read()
 
