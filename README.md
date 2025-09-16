@@ -35,20 +35,19 @@ I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science appl
   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff219fc42b716ca24a2476517fe951295%2FBadge-32.svg?generation=1727468159669543&alt=media" alt="Kaggle Grandmaster" width="80"/>
 </p>
 
-## 🏙 My GitHub Skyline
-<br><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><br>
+## 🏙 My GitHub Policy    
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
-## ✍️ My Articles  
+## ✍️ Articles & Blogs  
 
 <p align="center">
-  <a href="https://medium.com/@arun31.march.2k6">
-    <img src="https://img.shields.io/badge/Read%20on-Medium-black?style=for-the-badge&logo=medium" alt="Medium Article"/>
+  <a href="https://medium.com/@arun31.march.2k6/learning-neural-networks-from-scratch-my-journey-into-the-mathematics-of-ai-ea2081d43b6b">
+    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/1_NiOsrWGRuJ9CT3RthqMYOw.webp" alt="Article 1" width="300"/>
   </a>
-  
- ### 📌 Featured Articles  
-[Multimodal large language models (MLLMs)](https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e)  
-[Learning Neural Networks from Scratch: My Journey into the Mathematics of AI](https://medium.com/@your-username/article-link-2)  
-  
+
+  <a href="(https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e">
+    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2010_08_20%20AM.png" alt="Article 2" width="300"/>
+  </a>
 </p>
 
 
@@ -69,7 +68,7 @@ Here’s my GitHub Score, updated daily:
 # <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark) 
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark)
   
