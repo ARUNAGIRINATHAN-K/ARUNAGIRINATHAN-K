@@ -56,12 +56,12 @@ I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science appl
 Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** 1167
+🏆 **GitHub Score:** 1204
 
 📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
 🎮 **Level 2**
-[▓▓▓░░░░░░░] 33%
+[▓▓▓▓░░░░░░] 40%
 <!--SCORE_END-->
 
 
