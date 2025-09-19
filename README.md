@@ -48,7 +48,12 @@ I am a **AI & Full-Stack Developer** i work on AI/ML projects, Data Science appl
   <a href="(https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e">
     <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2010_08_20%20AM.png" alt="Article 2" width="200"/>
   </a>
+
+  <a href="(https://medium.com/@arun31.march.2k6/from-zero-to-neural-networks-a-complete-learning-journey-7d2d9c7f0529">
+    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT Image Sep 19, 2025, 08_53_30 AM.png" alt="Article 2" width="200"/>
+  </a>
 </p>
+
 
 
 # Hi there 👋
