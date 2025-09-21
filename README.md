@@ -79,6 +79,8 @@ Here’s my GitHub Score, updated daily:
   
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark)
 
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&hide_border=true&color=2f2f2f&line=555&point=999)
+
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&style=flat-square&color=blue)
