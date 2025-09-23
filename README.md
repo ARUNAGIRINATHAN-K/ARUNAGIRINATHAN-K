@@ -73,11 +73,12 @@ Here’s my GitHub Score, updated daily:
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark) 
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark)
-  
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ARUNAGIRINATHAN-K&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark&cache_seconds=1800) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&langs_count=5&theme=dark&cache_seconds=1800)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)
+
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&hide_border=true&color=2f2f2f&line=555&point=999)
 
