@@ -71,15 +71,13 @@ I am a **AI & Full-Stack Developer** working on AI/ML projects, Data Science app
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=pie&theme=dark)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
