@@ -26,7 +26,7 @@ I am a **AI & Full-Stack Developer** working on AI/ML projects, Data Science app
 ## Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** 1198
+🏆 **GitHub Score:** 1195
 
 📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
