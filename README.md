@@ -16,12 +16,52 @@
 *I am a AI & Full-Stack Developer working on AI & ML projects, Data Science applications, and realtime problems,aspiring to become a Data Scientist and AI Engineer having proficiency in programming languages like Python, knowledge of machine learning algorithms and deep learning, and expertise in AI frameworks such as TensorFlow and PyTorch. Building and deploying Machine Learning and Deep Learning solutions.Proficient in data analysis (Pandas, NumPy, SQL),data handling,model training (Scikit-learn, Keras) and problem-solving.*
 
 ## Experience 🧑🏻‍💻
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,nodejs,mysql&perline=6" alt="Languages" /> -->
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,r,nodejs,mysql,bootstrap,tailwindcss,react,nextjs,flask,django,tensorflow,sklearn,anaconda,bash,vscode,pycharm,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,aws,ubuntu&perline=16" alt="Languages" />
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,flutter,jquery&perline=6" alt="Frameworks" /> -->
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,astro,react,nextjs,flask,django,tensorflow,sklearn,jquery&perline=6" alt="Frameworks" /> -->
-<!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,ai,ps,ae,pr,xd,figma,firebase,wordpress,git,postman&perline=6" alt="Tools" /> -->
-<br/> 
+<img src="./icons/HTML.svg" width="40" title="HTML5"/> 
+<img src="./icons/CSS.svg" width="40" title="HTML5"/>  
+<img src="./icons/JavaScript.svg" width="40" title="HTML5"/>  
+<img src="./icons/Bootstrap.svg" width="40" title="HTML5"/>
+<img src="./icons/TailwindCSS-Dark.svg" width="40" title="HTML5"/> 
+<img src="./icons/NodeJS-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/PHP-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/Laravel-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/Python-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/Java-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/CS.svg" width="40" title="HTML5"/> 
+<img src="./icons/Anaconda-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/PyCharm-Dark.svg" width="40" title="HTML5"/> 
+<img src="./icons/WebStorm-Light.svg" width="40" title="HTML5"/>
+<img src="./icons/VSCode-Light.svg" width="40" title="HTML5"/> 
+<img src="./icons/Eclipse-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/Matlab-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/PyTorch-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/SciKitLearn-Light.svg" width="40" title="HTML5"/> 
+<img src="./icons/Flask-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/Flutter-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/Kotlin-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/R-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/Powershell-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/TensorFlow-Light.svg" width="40" title="HTML5"/>
+<img src="./icons/Spring-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/CodePen-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/SQLite.svg" width="40" title="HTML5"/>
+<img src="./icons/MySQL-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/Git.svg" width="40" title="HTML5"/>  
+<img src="./icons/GitLab-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/Github-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/GithubActions-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/Replit-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/AWS-Dark.svg" width="40" title="HTML5"/>
+<img src="./icons/Firebase-Light.svg" width="40" title="HTML5"/>  
+<img src="./icons/Figma-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/XD.svg" width="40" title="HTML5"/>  
+<img src="./icons/Premiere.svg" width="40" title="HTML5"/>  
+<img src="./icons/AfterEffects.svg" width="40" title="HTML5"/>  
+<img src="./icons/Illustrator.svg" width="40" title="HTML5"/>  
+<img src="./icons/Photoshop.svg" width="40" title="HTML5"/>  
+<img src="./icons/AiScript-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/AndroidStudio-Dark.svg" width="40" title="HTML5"/>  
+
+<!---<img src="./" width="40" title="HTML5"/>--->
 
 ## Here’s my GitHub Score, updated daily:
 
