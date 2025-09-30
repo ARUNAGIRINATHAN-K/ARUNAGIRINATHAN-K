@@ -13,7 +13,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
 # ✨ TRUST ME I'M AN ENGINEER
 
-*I am a AI & Full-Stack Developer working on AI & ML projects, Data Science applications, and realtime problems,aspiring to become a Data Scientist and AI Researcher having proficiency in programming languages like Python, knowledge of machine learning algorithms and deep learning, and expertise in AI frameworks such as TensorFlow and PyTorch. Building and deploying Machine Learning and Deep Learning solutions.Proficient in data analysis (Pandas, NumPy, SQL),data handling,model training (Scikit-learn, Keras) and problem-solving.*
+*I am a AI & Full-Stack Developer working on AI & ML projects, Data Science applications, and realtime problems,aspiring to become a Data Scientist and AI Engineer having proficiency in programming languages like Python, knowledge of machine learning algorithms and deep learning, and expertise in AI frameworks such as TensorFlow and PyTorch. Building and deploying Machine Learning and Deep Learning solutions.Proficient in data analysis (Pandas, NumPy, SQL),data handling,model training (Scikit-learn, Keras) and problem-solving.*
 
 ## Experience 🧑🏻‍💻
 <!-- <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,matlab,nodejs,mysql&perline=6" alt="Languages" /> -->
