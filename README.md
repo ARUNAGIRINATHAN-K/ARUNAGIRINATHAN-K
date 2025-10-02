@@ -4,9 +4,19 @@
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 # Hi, I'm ARUNAGIRINATHAN
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunagirinathan-k) 
-[![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/arunsworkspac)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&logoColor=white)](https://arunagirinathan-k.github.io/My-Portfolio/)
+
+<a href="https://www.linkedin.com/in/arunagirinathan-k">
+<img src="icons/LinkedIn.svg" alt="Linkedin" width="50"/>
+</a>&nbsp;
+  
+<a href="https://www.linkedin.com/in/arunagirinathan-k">
+<img src="icons/kaagle.png" alt="Article 1" width="50"/>
+</a>&nbsp;
+  
+<a href="https://arunagirinathan-k.github.io/My-Portfolio/">
+<img src="icons/Portfolio.png" alt="Article 1" width="50"/>
+</a><br><br>
+  
 ![wakatime](https://img.shields.io/badge/wakatime-2%20hrs%2030%20mins-blue?style=flat)
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
