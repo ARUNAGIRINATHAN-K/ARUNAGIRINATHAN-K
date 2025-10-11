@@ -76,12 +76,12 @@
 ## Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** 1227
+🏆 **GitHub Score:** 1220
 
 📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
 🎮 **Level 2**
-[▓▓▓▓░░░░░░] 45%
+[▓▓▓▓░░░░░░] 44%
 <!--SCORE_END-->
 <br>
 
