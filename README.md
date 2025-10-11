@@ -10,22 +10,23 @@
 </a>&nbsp;
   
 <a href="https://www.linkedin.com/in/arunagirinathan-k">
-<img src="icons/kaagle.png" alt="Article 1" width="50"/>
+<img src="icons/kaagle.png" alt="LinkedIn" width="50"/>
 </a>&nbsp;
   
 <a href="https://arunagirinathan-k.github.io/My-Portfolio/">
-<img src="icons/Portfolio.png" alt="Article 1" width="50"/>
+<img src="icons/Portfolio.png" alt="Portfolio" width="50"/>
 </a>&nbsp;
 
 <a href="https://www.instagram.com/_arunagirinathan_k">
-<img src="icons/Instagram.svg" alt="Article 1" width="50"/>
+<img src="icons/Instagram.svg" alt="instagram" width="50"/>
 </a<br><br>
   
 ![wakatime](https://img.shields.io/badge/wakatime-2%20hrs%2030%20mins-blue?style=flat)
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
-# ✨ TRUST ME I'M AN ENGINEER
+
+ # ✨ TRUST ME I'M AN ENGINEER
 
 *I am a AI & Full-Stack Developer working on AI & ML projects, Data Science applications, and realtime problems,aspiring to become a Data Scientist and AI Engineer having proficiency in programming languages like Python and Java, knowledge of machine learning algorithms and deep learning, and expertise in AI frameworks such as TensorFlow and PyTorch. Building and deploying Machine Learning and Deep Learning solutions.Proficient in data analysis (Pandas, NumPy, SQL, PowerBI),data handling,model training (Scikit-learn, Keras) and problem-solving.*
 
