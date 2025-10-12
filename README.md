@@ -120,9 +120,9 @@
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&count_private=true&theme=dark&cache_seconds=1800) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&cache_seconds=1800) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&&langs_count=10)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)
 
