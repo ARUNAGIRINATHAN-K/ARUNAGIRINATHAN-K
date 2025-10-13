@@ -26,7 +26,7 @@
 ![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
 
- # ✨ TRUST ME I'M AN ENGINEER
+## About Me
 
 *I am a AI & Full-Stack Developer working on AI & ML projects, Data Science applications, and realtime problems,aspiring to become a Data Scientist and AI Engineer having proficiency in programming languages like Python and Java, knowledge of machine learning algorithms and deep learning, and expertise in AI frameworks such as TensorFlow and PyTorch. Building and deploying Machine Learning and Deep Learning solutions.Proficient in data analysis (Pandas, NumPy, SQL, PowerBI),data handling,model training (Scikit-learn, Keras) and problem-solving.*
 
