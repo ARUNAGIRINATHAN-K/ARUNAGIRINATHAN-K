@@ -6,20 +6,21 @@
 # Hi, I'm ARUNAGIRINATHAN
 
 <a href="https://www.linkedin.com/in/arunagirinathan-k">
-<img src="icons/LinkedIn.svg" alt="Linkedin" width="50"/>
+<img src="icons/LinkedIn.svg" alt="Linkedin" width="40"/>
 </a>&nbsp;
   
 <a href="https://www.linkedin.com/in/arunagirinathan-k">
-<img src="icons/kaagle.png" alt="LinkedIn" width="50"/>
+<img src="icons/kaagle.png" alt="LinkedIn" width="40"/>
 </a>&nbsp;
   
 <a href="https://arunagirinathan-k.github.io/My-Portfolio/">
-<img src="icons/Portfolio.png" alt="Portfolio" width="50"/>
+<img src="icons/Portfolio.png" alt="Portfolio" width="40"/>
 </a>&nbsp;
 
 <a href="https://www.instagram.com/_arunagirinathan_k">
-<img src="icons/Instagram.svg" alt="instagram" width="50"/>
-</a<br><br>
+<img src="icons/Instagram.svg" alt="instagram" width="40"/>
+</a<br>
+<br><br>
   
 ![wakatime](https://img.shields.io/badge/wakatime-2%20hrs%2030%20mins-blue?style=flat)
 ![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
