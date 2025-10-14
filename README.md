@@ -68,7 +68,7 @@
 <img src="./icons/Replit-Dark.svg" width="40" title="HTML5"/>
 <img src="./icons/AWS-Dark.svg" width="40" title="HTML5"/>
 <img src="./icons/Firebase-Light.svg" width="40" title="HTML5"/>  
-<!---<img src="./icons/Figma-Dark.svg" width="40" title="HTML5"/>  
+<img src="./icons/Figma-Dark.svg" width="40" title="HTML5"/>  
 <img src="./icons/XD.svg" width="40" title="HTML5"/>  
 <img src="./icons/Premiere.svg" width="40" title="HTML5"/>  
 <img src="./icons/AfterEffects.svg" width="40" title="HTML5"/>  
@@ -77,7 +77,7 @@
 <img src="./icons/AiScript-Dark.svg" width="40" title="HTML5"/>  
 <img src="./icons/AndroidStudio-Dark.svg" width="40" title="HTML5"/>  
 
-<img src="./" width="40" title="HTML5"/>--->
+<!---<img src="./" width="40" title="HTML5"/>--->
 
 ## Here’s my GitHub Score, updated daily:
 
