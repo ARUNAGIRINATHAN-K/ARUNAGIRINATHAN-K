@@ -5,32 +5,67 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 # Hi, I'm ARUNAGIRINATHAN
 
-<a href="https://www.linkedin.com/in/arunagirinathan-k">
-<img src="icons/LinkedIn.svg" alt="Linkedin" width="40"/>
-</a>&nbsp;
-  
-<a href="https://www.linkedin.com/in/arunagirinathan-k">
-<img src="icons/kaagle.png" alt="LinkedIn" width="40"/>
-</a>&nbsp;
-  
-<a href="https://arunagirinathan-k.github.io/My-Portfolio/">
-<img src="icons/Portfolio.png" alt="Portfolio" width="40"/>
-</a>&nbsp;
+## AI & ML | Full-Stack Developer | Data Science Enthusiast
 
-<a href="https://www.instagram.com/_arunagirinathan_k">
-<img src="icons/Instagram.svg" alt="instagram" width="40"/>
-</a<br>
-<br><br>
-  
-![wakatime](https://img.shields.io/badge/wakatime-2%20hrs%2030%20mins-blue?style=flat)
-![visitors](https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=lightgrey&label=visitors)
-![followers](https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat&logo=github&label=followers)
-![GitHub Stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=social)
+</div>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/arunagirinathan-k">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://arunagirinathan-k.github.io/My-Portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.instagram.com/_arunagirinathan_k">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.kaggle.com/arunagirinathank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat-square&logo=github&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
+  </p>
+
+
+<div align="center">
+  
 ## About Me
 
 *I am a AI & Full-Stack Developer working on AI & ML projects, Data Science applications, and realtime problems,aspiring to become a Data Scientist and AI Engineer having proficiency in programming languages like Python and Java, knowledge of machine learning algorithms and deep learning, and expertise in AI frameworks such as TensorFlow and PyTorch. Building and deploying Machine Learning and Deep Learning solutions.Proficient in data analysis (Pandas, NumPy, SQL, PowerBI),data handling,model training (Scikit-learn, Keras) and problem-solving.*
+</div>
 
+```python
+class ArunagirinathK:
+    def __init__(self):
+        self.name = "Arunagirinathan K"
+        self.role = "AI Engineer & Full-Stack Developer"
+        self.location = "Salem, Tamil Nadu, IN"
+        self.education = "B.Tech in AI & Data Science"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "Java", "JavaScript", "PHP", "C#", "R", "Kotlin"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "Deep Learning"],
+            "data_science": ["Pandas", "NumPy", "SQL", "Power BI", "Data Visualization"],
+            "web_dev": ["Node.js", "Laravel", "Flask", "Bootstrap", "Tailwind CSS"],
+            "mobile": ["Flutter", "Android Studio"],
+            "tools": ["Git", "AWS", "Firebase", "Docker", "VS Code", "PyCharm"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building ML/DL solutions for real-world applications",
+            "Advancing in Neural Networks and Deep Learning architectures",
+            "Contributing to open-source AI projects"
+        ]
+```
+  </div>
+
+<div align="center">
+    
 ## Experience 🧑🏻‍💻
 <img src="./icons/HTML.svg" width="40" title="HTML5"/> 
 <img src="./icons/CSS.svg" width="40" title="HTML5"/>  
@@ -78,7 +113,10 @@
 <img src="./icons/AndroidStudio-Dark.svg" width="40" title="HTML5"/>  
 
 <!---<img src="./" width="40" title="HTML5"/>--->
+</div>
 
+<div align="center">
+  
 ## Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
@@ -89,7 +127,7 @@
 🎮 **Level 2**
 [▓▓▓▓▓▓░░░░] 62%
 <!--SCORE_END-->
-<br>
+</div>
 <!---
 ## Kaggle Achievements  
 <p align="center">
@@ -100,23 +138,20 @@
 </p>
 <br>
 --->
-
+<!--
 ## ✍️ Articles & Blogs  
-
 <p align="center">
   <a href="https://medium.com/@arun31.march.2k6/learning-neural-networks-from-scratch-my-journey-into-the-mathematics-of-ai-ea2081d43b6b">
     <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/1_NiOsrWGRuJ9CT3RthqMYOw.webp" alt="Article 1" width="200"/>
   </a>
-
   <a href="(https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e">
     <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2010_08_20%20AM.png" alt="Article 2" width="200"/>
   </a>
-
   <a href="(https://medium.com/@arun31.march.2k6/from-zero-to-neural-networks-a-complete-learning-journey-7d2d9c7f0529">
     <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT Image Sep 19, 2025, 08_53_30 AM.png" alt="Article 2" width="200"/>
   </a>
 </p>
-
+-->
 
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
@@ -140,6 +175,19 @@
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+I'm always open to collaborating on interesting projects, discussing AI/ML innovations, I Contribute to community projects, fixing bugs, improving docs, and building reusable components for data and AI tooling.
+  
+**🌐 Portfolio:** [arunagirinathan-k.github.io](https://arunagirinathan-k.github.io/My-Portfolio/)  
+**💼 LinkedIn:** [linkedin.com/in/arunagirinathan-k](https://www.linkedin.com/in/arunagirinathan-k)
+
+⭐️ From [ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K) 
 
 </div>
 
