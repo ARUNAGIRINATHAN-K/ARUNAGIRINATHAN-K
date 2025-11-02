@@ -42,7 +42,7 @@ class ArunagirinathK:
     def __init__(self):
         self.name = "Arunagirinathan K"
         self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Salem, Tamil Nadu, IN"
+        self.location = "Karur, Tamil Nadu, INDIA"
         self.education = "B.Tech in AI & Data Science"
         
     def get_skills(self):
