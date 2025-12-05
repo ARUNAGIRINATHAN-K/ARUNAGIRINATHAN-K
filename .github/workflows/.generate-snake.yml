@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # runs once every 12 hours (you can change schedule)
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate SVG Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          # use your GitHub username (or repository owner)
+          github_user_name: ${{ github.repository_owner }}
+          # outputs path (the action will write this file)
+          outputs: |
+            output/github-contribution-snake.svg
+
+      - name: Commit generated svg back to repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: update contribution snake"
+          add: 'output/github-contribution-snake.svg'
