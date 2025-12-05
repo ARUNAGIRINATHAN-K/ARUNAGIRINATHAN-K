@@ -3,9 +3,12 @@
 <div align="center">
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
-# Hi, I'm ARUNAGIRINATHAN
 
-## AI & ML | Full-Stack Developer | Data Science Enthusiast
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=300&color=00F7FF&center=true&vCenter=true&width=900&lines=ARUNAGIRINATHAN+K;AI+%26+ML+Enthusiast;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 </div>
 
@@ -157,7 +160,14 @@ class ArunagirinathK:
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&cache_seconds=60) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&cache_seconds=60)
+
+![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARUNAGIRINATHAN-K&theme=dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
+
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=14&cache_seconds=60)--->
 
