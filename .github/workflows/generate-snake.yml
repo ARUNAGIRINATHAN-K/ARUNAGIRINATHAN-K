@@ -1,33 +1,33 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake (Dark Mode)
 
 on:
   schedule:
-    # runs once every 12 hours (you can change schedule)
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"   # runs every 12 hours
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
-      - name: Generate SVG Contribution Snake
+      - name: Generate Dark Mode Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          # use your GitHub username (or repository owner)
           github_user_name: ${{ github.repository_owner }}
-          # outputs path (the action will write this file)
+          # Output file
           outputs: |
-            output/github-contribution-snake.svg
+            output/github-contribution-snake-dark.svg
+          # Dark mode colors
+          color_snake: "#00FFFF"
+          color_dots: "#333333,#444444,#555555,#666666"
 
-      - name: Commit generated svg back to repo
+      - name: Commit generated SVG back to repo
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "chore: update contribution snake"
-          add: 'output/github-contribution-snake.svg'
+          message: "chore: update dark mode contribution snake"
+          add: "output/github-contribution-snake-dark.svg"
