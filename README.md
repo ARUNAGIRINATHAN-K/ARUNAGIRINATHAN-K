@@ -119,6 +119,8 @@ class ArunagirinathK:
 <!---<img src="./" width="40" title="HTML5"/>--->
 </div>
 
+---
+
 <div align="center">
   
 ## Here’s my GitHub Score, updated daily:
@@ -132,30 +134,89 @@ class ArunagirinathK:
 [▓▓░░░░░░░░] 22%
 <!--SCORE_END-->
 </div>
+
 <!---
-## Kaggle Achievements  
-<p align="center">
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" alt="Kaggle Expert" width="80"/>
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" alt="Kaggle Master" width="80"/>
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F5d31f6794c65cc3ed7e29768cd541a53%2FBadge-17.svg?generation=1727463142252997&alt=media" alt="Kaggle Grandmaster" width="80"/>
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff219fc42b716ca24a2476517fe951295%2FBadge-32.svg?generation=1727468159669543&alt=media" alt="Kaggle Grandmaster" width="80"/>
-</p>
+<div align="center">
+## 
+
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 1</h3>
+<div align="center">  
+<a href="https://github.com/yourusername/project1" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/00d9ff?text=Project+Screenshot" width="400" alt="Project 1"/></a>
 <br>
---->
-<!--
-## ✍️ Articles & Blogs  
-<p align="center">
-  <a href="https://medium.com/@arun31.march.2k6/learning-neural-networks-from-scratch-my-journey-into-the-mathematics-of-ai-ea2081d43b6b">
-    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/1_NiOsrWGRuJ9CT3RthqMYOw.webp" alt="Article 1" width="200"/>
-  </a>
-  <a href="(https://medium.com/@arun31.march.2k6/ohow-mllms-extended-ai-beyond-text-1be464cfd88e">
-    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2010_08_20%20AM.png" alt="Article 2" width="200"/>
-  </a>
-  <a href="(https://medium.com/@arun31.march.2k6/from-zero-to-neural-networks-a-complete-learning-journey-7d2d9c7f0529">
-    <img src="https://github.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/blob/main/Articles/ChatGPT Image Sep 19, 2025, 08_53_30 AM.png" alt="Article 2" width="200"/>
-  </a>
+<br>
+<p>
+<a href="https://github.com/yourusername/project1" target="_blank">
+<img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+</a>  
+<a href="https://project1-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
 </p>
--->
+<p><strong>JavaScript, React, Node.js</strong> - A comprehensive web application with real-time features and modern UI. Built with performance and user experience in mind.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Project Name 2</h3>
+<div align="center">  
+<a href="https://github.com/yourusername/project2" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/a78bfa?text=Project+Screenshot" width="400" alt="Project 2"/></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/project2" target="_blank">
+<img src="https://img.shields.io/badge/Code-a78bfa?style=for-the-badge&logo=github&logoColor=black"/>
+</a>  
+<a href="https://project2-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-purple?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+<p><strong>Python, Flask, PostgreSQL</strong> - A powerful backend API with authentication and data visualization. Scalable architecture designed for high performance.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name 3</h3>
+<div align="center">  
+<a href="https://github.com/yourusername/project3" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/fb923c?text=Project+Screenshot" width="400" alt="Project 3"/></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/project3" target="_blank">
+<img src="https://img.shields.io/badge/Code-fb923c?style=for-the-badge&logo=github&logoColor=black"/>
+</a>  
+<a href="https://project3-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+<p><strong>TypeScript, Next.js, Tailwind</strong> - Modern e-commerce platform with seamless checkout experience. Optimized for SEO and mobile responsiveness.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Project Name 4</h3>
+<div align="center">  
+<a href="https://github.com/yourusername/project4" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/34d399?text=Project+Screenshot" width="400" alt="Project 4"/></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/yourusername/project4" target="_blank">
+<img src="https://img.shields.io/badge/Code-34d399?style=for-the-badge&logo=github&logoColor=black"/>
+</a>  
+<a href="https://project4-demo.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+<p><strong>Vue.js, Firebase, Docker</strong> - Real-time collaborative tool for teams. Features include live updates, user management, and cloud deployment.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+--->
 
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 <div align="center">
@@ -189,19 +250,18 @@ class ArunagirinathK:
 
 </div>
 
-## 🤝 Connect With Me
+---
 
 <div align="center">
-  
-I'm always open to collaborating on interesting projects, discussing AI/ML innovations, I Contribute to community projects, fixing bugs, improving docs, and building reusable components for data and AI tooling.
-  
-**🌐 Portfolio:** [arunagirinathan-k.github.io](https://arunagirinathan-k.github.io/My-Portfolio/)  
-**💼 LinkedIn:** [linkedin.com/in/arunagirinathan-k](https://www.linkedin.com/in/arunagirinathan-k)
 
-⭐️ From [ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K) 
+## 🤝 Connect With Me
+  
+*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, I Contribute to community projects, fixing bugs, improving docs, and building reusable components for data and AI tooling.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunagirinathan-k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K/NeuroMath)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arunagirinathan-k.github.io/My-Portfolio/)
 
 </div>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
