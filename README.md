@@ -227,8 +227,8 @@ class ArunagirinathK:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
 
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=14&cache_seconds=60)--->
 
