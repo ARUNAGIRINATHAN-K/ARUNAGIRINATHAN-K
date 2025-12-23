@@ -37,7 +37,7 @@
   
 ## About Me
  
-*I am an AI & Full-Stack Developer working on AI/ML projects, Data Science applications, and realtime problems.Full-Stack AI Developer skilled in building end-to-end web applications integrated with machine learning models, intelligent automation. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).*
+*I am an AI & Full-Stack Developer working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python and Java, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).*
 </div>
 
 <!---
