@@ -22,7 +22,7 @@
     <a href="https://www.instagram.com/_arunagirinathan_k">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://www.kaggle.com/arunagirinathank">
+    <a href="https://www.kaggle.com/arunsworkspace">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
     </a>
   </p>
