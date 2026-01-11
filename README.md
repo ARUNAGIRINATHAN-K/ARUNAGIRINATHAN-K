@@ -4,6 +4,8 @@
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 
+# ARUNAGIRINATHAN K
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analytics;Data+Driven+Full-Stack+Developer;MLOps" alt="Typing SVG" />
