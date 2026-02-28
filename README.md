@@ -134,12 +134,12 @@ class ArunagirinathK:
 ## Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** 1805
+🏆 **GitHub Score:** 1823
 
 📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
 🎮 **Level 3**
-[▓▓▓▓▓▓░░░░] 61%
+[▓▓▓▓▓▓░░░░] 64%
 <!--SCORE_END-->
 </div>
 
