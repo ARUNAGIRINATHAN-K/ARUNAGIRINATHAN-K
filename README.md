@@ -239,11 +239,14 @@ class ArunagirinathK:
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true" />
 
-<!-- Row 3: Profile Details full width -->
+<!--
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
-
-<!-- Row 4: Activity Graph full width -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60&hide_border=true" />
+--->
+
+<!-- Row 3: Profile Details (left) + Activity Graph (right) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60&hide_border=true" />
 
 </div>
 
