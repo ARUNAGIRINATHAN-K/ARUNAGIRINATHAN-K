@@ -227,30 +227,24 @@ class ArunagirinathK:
 --->
 
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Github Statistics</h2>
-<div align="center">
-  
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60" />
-</div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" width="100%" />
-</div>
 
-<div align="center">
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARUNAGIRINATHAN-K&theme=dark" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-</div>
+<!-- Row 1: 3 equal columns -->
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
+<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
 
-<!--<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ARUNAGIRINATHAN-K&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=60" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ARUNAGIRINATHAN-K&theme=radical&no-frame=false&no-bg=true&margin-w=3&row=1" width="49%" />
-</div>-->
+<!-- Row 2: 2 equal columns (no table borders, freely aligned) -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60"/>
+<!-- Row 3: Profile Details full width -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
+
+<!-- Row 4: Activity Graph full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60&hide_border=true" />
+
 </div>
 
 <div align="center">
