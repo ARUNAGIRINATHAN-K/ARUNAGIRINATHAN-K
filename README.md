@@ -1,24 +1,20 @@
-<img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
+<!-- <img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" /> -->
 
-<div align="center">
-<!-- Visitor Badge + Profile Views -->
   
 <div align="center">
   
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; -->
 
 # ARUNAGIRINATHAN K
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Full-Stack+Data+Scientist;MLOps" alt="Typing SVG" />
-  </a>
-  <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+%F0%9F%9A%80;One+commit+at+a+time+%E2%9C%A8;Clean+code+%7C+Clear+mind+%7C+Constant+growth" alt="Typing SVG" />
-<br/>
-</h1>
+### `AI Practitioner` · `Data Scientist` · `MLOps` · `Full Stack Developer`
 
-</div>
+<!--- #### `AI & Data Science developer focused on building and deploying ML/DL solutions. Proficient in Python, TensorFlow, PyTorch, and full-stack data pipelines`--->
+
+*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across the full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions.*
+
+
+<!-- *I am an AI & Full-Stack Developer working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python and Java, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).* --->
 
 <p align="center">
     <a href="https://www.linkedin.com/in/arunagirinathan-k">
@@ -39,92 +35,15 @@
     <img src="https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat-square&logo=github&label=Followers" alt="Followers"/>
     <img src="https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
   </p>
-
-
-<div align="center">
   
-## About Me
- 
-*I am an AI & Full-Stack Developer working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python and Java, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).*
-</div>
-
-<!---
-```python
-class ArunagirinathK:
-    def __init__(self):
-        self.name = "Arunagirinathan K"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Karur, Tamil Nadu, INDIA"
-        self.education = "B.Tech in AI & Data Science"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "Java", "JavaScript", "PHP", "C#", "R", "Kotlin"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "Deep Learning"],
-            "data_science": ["Pandas", "NumPy", "SQL", "Power BI", "Data Visualization"],
-            "web_dev": ["Node.js", "Laravel", "Flask", "Bootstrap", "Tailwind CSS"],
-            "mobile": ["Flutter", "Android Studio"],
-            "tools": ["Git", "AWS", "Firebase", "Docker", "VS Code", "PyCharm"]
-        }
-    
-    def current_focus(self):
-        return [
-            "Building ML/DL solutions for real-world applications",
-            "Advancing in Neural Networks and Deep Learning architectures",
-            "Contributing to open-source AI projects"
-        ]
-```
---->
-  </div>
+---
 
 <div align="center">
-    
-## Experience
-<img src="./icons/HTML.svg" width="40" title="HTML5"/> 
-<img src="./icons/CSS.svg" width="40" title="CSS"/>  
-<img src="./icons/JavaScript.svg" width="40" title="JavaScript"/>  
-<img src="./icons/Bootstrap.svg" width="40" title="Bootstrap5"/>
-<!--<img src="./icons/TailwindCSS-Dark.svg" width="40" title="HTML5"/> 
-<img src="./icons/Laravel-Light.svg" width="40" title="HTML5"/>
-<img src="./icons/NodeJS-Dark.svg" width="40" title="HTML5"/>  -->
-<img src="./icons/PHP-Light.svg" width="40" title="PHP"/>    
-<img src="./icons/Python-Light.svg" width="40" title="Python"/>  
-<img src="./icons/Java-Light.svg" width="40" title="Java"/>  
-<!--<img src="./icons/CS.svg" width="40" title="HTML5"/> -->
-<img src="./icons/Anaconda-Dark.svg" width="40" title="Anaconda"/>  
-<img src="./icons/PyCharm-Dark.svg" width="40" title="Pycharm"/> 
-<!--<img src="./icons/WebStorm-Light.svg" width="40" title="HTML5"/>-->
-<img src="./icons/VSCode-Light.svg" width="40" title="Vscode"/> 
-<img src="./icons/Eclipse-Dark.svg" width="40" title="Eclipse"/>
-<!--<img src="./icons/Matlab-Dark.svg" width="40" title="HTML5"/>-->  
-<img src="./icons/PyTorch-Dark.svg" width="40" title="Pytorch"/> <br> 
-<img src="./icons/SciKitLearn-Light.svg" width="40" title="SciKitLearn"/> 
-<img src="./icons/Flask-Dark.svg" width="40" title="Flask"/>
-<!--<img src="./icons/Flutter-Dark.svg" width="40" title="HTML5"/>
-<img src="./icons/Powershell-Dark.svg" width="40" title="HTML5"/> 
-<img src="./icons/Spring-Dark.svg" width="40" title="HTML5"/> 
-<img src="./icons/Kotlin-Dark.svg" width="40" title="HTML5"/>-->
-<img src="./icons/R-Dark.svg" width="40" title="R"/>
-<img src="./icons/TensorFlow-Light.svg" width="40" title="TensorFlow"/>
-<img src="./icons/SQLite.svg" width="40" title="SQlite"/>
-<img src="./icons/MySQL-Light.svg" width="40" title="MySQL"/>  
-<img src="./icons/Git.svg" width="40" title="Git"/>  
-<img src="./icons/GitLab-Dark.svg" width="40" title="GitLab"/>  
-<img src="./icons/Github-Dark.svg" width="40" title="GitHub"/>
-<img src="./icons/GithubActions-Dark.svg" width="40" title="GitHubAction"/>  
-<!--<img src="./icons/Replit-Dark.svg" width="40" title="HTML5"/>
-<img src="./icons/Firebase-Light.svg" width="40" title="HTML5"/> -->
-<img src="./icons/AWS-Dark.svg" width="40" title="AWS"/>
-<img src="./icons/Figma-Dark.svg" width="40" title="Figma"/>  
-<!--<img src="./icons/XD.svg" width="40" title="HTML5"/>  
-<img src="./icons/Premiere.svg" width="40" title="HTML5"/>  
-<img src="./icons/AfterEffects.svg" width="40" title="HTML5"/>  
-<img src="./icons/Illustrator.svg" width="40" title="HTML5"/>  
-<img src="./icons/Photoshop.svg" width="40" title="HTML5"/>  
-<img src="./icons/AiScript-Dark.svg" width="40" title="HTML5"/>  
-<img src="./icons/AndroidStudio-Dark.svg" width="40" title="HTML5"/>-->  
 
-<!---<img src="./" width="40" title="HTML5"/>--->
+## Tech Stack
+  
+`Python` `Pandas` `NumPy` `scikit-learn` `spaCy` `Statsmodels` `Flask` `FastAPI` `SQL` `TensorFlow` `PyTorch` `NLTK` `Transformers` `HuggingFace` `Gradio` `Power BI` `Tableau` `OpenCV` `Docker` `AWS` `MLflow` `Git` `GitHub` `GitHub Actions` `Jupyter Notebook` `VS Code`
+
 </div>
 
 ---
@@ -143,11 +62,24 @@ class ArunagirinathK:
 <!--SCORE_END-->
 </div>
 
+---
+
+## Top Repos
+
+<a href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/awesome-ai-agents.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/NeuroMath"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/NeuroMath.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/LeakGuard"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/LeakGuard.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/Plant-Disease-Classification-Using-CNNs"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Plant-Disease-Classification-Using-CNNs.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/gpu-accelerated-ds-agents"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/gpu-accelerated-ds-agents.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/Resume_Analyzer"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Resume_Analyzer.svg"></a>
+<a href="https://github.com/ARUNAGIRINATHAN-K/FloraMind"><img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/FloraMind.svg"></a>
+
+</div>
+
 <!---
 <div align="center">
 ## 
-
-
 <div align="center">
 <table>
 <tr>
@@ -250,7 +182,7 @@ class ArunagirinathK:
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
@@ -260,7 +192,7 @@ class ArunagirinathK:
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark"/>
-</div>
+</div> -->
 </div>
 
 ---
