@@ -66,38 +66,59 @@
 
 ## Top Repos
 
-<div align="center">
-
+<table border="0">
+<tr>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/awesome-ai-agents.svg">
 </a>
+</td>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/NeuroMath">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/NeuroMath.svg">
 </a>
+</td>
+</tr>
 
+<tr>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/LeakGuard">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/LeakGuard.svg">
 </a>
+</td>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/Plant-Disease-Classification-Using-CNNs">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Plant-Disease-Classification-Using-CNNs.svg">
 </a>
+</td>
+</tr>
 
+<tr>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/gpu-accelerated-ds-agents">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/gpu-accelerated-ds-agents.svg">
 </a>
+</td>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques.svg">
 </a>
+</td>
+</tr>
 
+<tr>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/Resume_Analyzer">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Resume_Analyzer.svg">
 </a>
+</td>
+<td>
 <a href="https://github.com/ARUNAGIRINATHAN-K/FloraMind">
 <img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/FloraMind.svg">
 </a>
-
-</div>
-
+</td>
+</tr>
+</table>
 </div>
 
 <!---
