@@ -42,8 +42,7 @@
 
 ## Tech Stack
   
-#### `Python` · `Pandas` · `NumPy` · `scikit-learn` · `spaCy` · `Statsmodels` · `Flask` · `FastAPI` · `SQL` · `TensorFlow` · `PyTorch` · `NLTK` · `Transformers` `HuggingFace` · `Gradio` · `Power BI` · `Tableau` · `OpenCV` · `Docker` · `AWS` · `MLflow ·` `Git ·` `GitHub` · `GitHub Actions` · `Jupyter Notebook` · `VS Code`
-
+#### `Python` · `Pandas` · `NumPy` · `scikit-learn` · `spaCy` · `Statsmodels` · `Flask` · `FastAPI` · `SQL` · `TensorFlow` · `PyTorch` · `NLTK`  `Transformers` `HuggingFace` · `Gradio` · `Power BI` · `Tableau` · `OpenCV` · `Docker` · `AWS` · `MLflow` · `Git` · `GitHub` · `GitHub Actions`  `Jupyter Notebook` · `VS Code`· `HTML` · `CSS` · `Java Script` · `SQL` · `MongoDB` · `React` · `Express` · `Node` · `R` · `n8n` · `Agents` · `ML` 
 </div>
 
 ---
