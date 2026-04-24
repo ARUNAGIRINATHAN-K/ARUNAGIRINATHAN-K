@@ -7,11 +7,11 @@
 
 # ARUNAGIRINATHAN K
 
-### `AI Practitioner` · `Data Scientist` · `MLOps` · `Full Stack Developer`
+### `AI Practitioner` · `Data Scientist` · `Data Analyst` · `Full Stack Developer`
 
 <!--- #### `AI & Data Science developer focused on building and deploying ML/DL solutions. Proficient in Python, TensorFlow, PyTorch, and full-stack data pipelines`--->
 
-*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across the full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions.*
+*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across the full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. Proficient in <br><br> `Python` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Transformers` · `Tensorflow` · `FastAPI` · `SQL` · `MLflow`*
 
 
 <!-- *I am an AI & Full-Stack Developer working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python and Java, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).* --->
@@ -41,8 +41,85 @@
 <div align="center">
 
 ## Tech Stack
-  
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br>PyTorch
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br>Scikit-learn
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/><br>Transformers
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="45"/><br>Pandas
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="45"/><br>NumPy
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/mlflow" width="45"/><br>MLflow
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/gradio" width="45"/><br>Gradio
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="45"/><br>OpenCV
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/langchain" width="45"/><br>LangChain
+</td>
+</tr>
+</table>
+
+<!--  
 #### `Python` · `Pandas` · `NumPy` · `scikit-learn` · `spaCy` · `Statsmodels` · `Flask` · `FastAPI` · `SQL` · `TensorFlow` · `PyTorch` · `NLTK`  `Transformers` `HuggingFace` · `Gradio` · `Power BI` · `Tableau` · `OpenCV` · `Docker` · `AWS` · `MLflow` · `Git` · `GitHub` · `GitHub Actions`  `Jupyter Notebook` · `VS Code`· `HTML` · `CSS` · `Java Script` · `SQL` · `MongoDB` · `React` · `Express` · `Node` · `R` · `n8n` · `Agents` · `ML` 
+--->
+
 </div>
 
 ---
@@ -59,6 +136,7 @@
 🎮 **Level 3**
 [▓▓▓▓▓▓▓░░░] 77%
 <!--SCORE_END-->
+
 </div>
 
 ---
