@@ -1,17 +1,17 @@
-<!-- <img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" /> -->
+<img src="main.png" />
 
   
 <div align="center">
   
-<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; -->
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; 
 
-# ARUNAGIRINATHAN K
+# ARUNAGIRINATHAN K-->
 
 ### `AI Practitioner` · `Data Scientist` · `Data Analyst` · `Full Stack Developer`
 
 <!--- #### `AI & Data Science developer focused on building and deploying ML/DL solutions. Proficient in Python, TensorFlow, PyTorch, and full-stack data pipelines`--->
 
-*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. Proficient in <br><br> `Python` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `Transformers` · `Tensorflow` · `FastAPI` · `SQL` · `MLflow`*
+*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. Proficient in <br><br> `Python` · `PyTorch` · `Tensorflow` · `Transformers` · `RAG` ·`FastAPI` · `MLflow`*
 
 <br>
 <!-- *I am an AI & Full-Stack Developer working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python and Java, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).* --->
@@ -49,15 +49,13 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br>Scikit-learn</td>
 <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/><br>Transformers</td>
-<td align="center"><img src="https://cdn.simpleicons.org/pandas/150458" width="45"/><br>Pandas</td>
-<td align="center"><img src="https://cdn.simpleicons.org/numpy/013243" width="45"/><br>NumPy</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
