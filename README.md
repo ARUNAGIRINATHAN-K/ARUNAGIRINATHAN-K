@@ -42,35 +42,39 @@
 
 ## Tech Stack
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br>PyTorch</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br>Scikit-learn</td>
-<td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/><br>Transformers</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
-<td align="center"><img src="https://cdn.simpleicons.org/mlflow" width="45"/><br>MLflow</td>
-<td align="center"><img src="https://cdn.simpleicons.org/gradio" width="45"/><br>Gradio</td>
-<td align="center"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="45"/><br>OpenCV</td>
-<td align="center"><img src="https://cdn.simpleicons.org/langchain" width="45"/><br>LangChain</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/>
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="45"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/>
+<img src="https://cdn.simpleicons.org/langchain" width="45"/>
+<img src="https://cdn.simpleicons.org/langgraph" width="45"/>
+<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="45" alt="Apache Kafka"/>
+<img src="https://cdn.simpleicons.org/apacheairflow" width="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
 
-<!--  
-#### `Python` · `Pandas` · `NumPy` · `scikit-learn` · `spaCy` · `Statsmodels` · `Flask` · `FastAPI` · `SQL` · `TensorFlow` · `PyTorch` · `NLTK`  `Transformers` `HuggingFace` · `Gradio` · `Power BI` · `Tableau` · `OpenCV` · `Docker` · `AWS` · `MLflow` · `Git` · `GitHub` · `GitHub Actions`  `Jupyter Notebook` · `VS Code`· `HTML` · `CSS` · `Java Script` · `SQL` · `MongoDB` · `React` · `Express` · `Node` · `R` · `n8n` · `Agents` · `ML` 
---->
+<br>
+
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://cdn.simpleicons.org/mlflow" width="45"/>
+<img src="https://cdn.simpleicons.org/dvc" width="45"/>
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="45"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="45"/>
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+
+</div>
 
 </div>
 
@@ -92,6 +96,7 @@
 </div>
 
 ---
+
 <!---
 ## Top Repos
 
