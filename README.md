@@ -1,13 +1,10 @@
 <div align="center">
 
-![alt text](main.png)
+![alt text](Top.png)
 
 ## *AI Assisted SAAS builder | FullStack Developer | Full Time Oper Sourcerer*
 
 *AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. Proficient in <br><br>*
-
-<br>
-<!-- *I am an AI & Full-Stack Developer working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python and Java, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).* --->
 
 <p align="center">
     <a href="https://www.linkedin.com/in/arunagirinathan-k">
