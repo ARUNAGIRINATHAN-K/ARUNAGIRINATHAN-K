@@ -1,15 +1,8 @@
-<img src="main.png" />
-
-  
 <div align="center">
-  
-<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; 
 
-# ARUNAGIRINATHAN K-->
+![alt text](main.png)
 
-### `AI Practitioner` · `Data Analyst` · `Full Stack Developer`
-
-<!--- #### `AI & Data Science developer focused on building and deploying ML/DL solutions. Proficient in Python, TensorFlow, PyTorch, and full-stack data pipelines`--->
+## *AI Assisted SAAS builder | FullStack Developer | Full Time Oper Sourcerer*
 
 *AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. Proficient in <br><br>*
 
@@ -46,29 +39,17 @@
 
 <img src="https://skillicons.dev/icons?i=python" width="45"/>
 <img src="https://skillicons.dev/icons?i=java" width="45"/>
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
-<img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/>
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="45"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/>
 <img src="https://cdn.simpleicons.org/langchain" width="45"/>
-<img src="https://cdn.simpleicons.org/langgraph" width="45"/>
-<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="45" alt="Apache Kafka"/>
-<img src="https://cdn.simpleicons.org/apacheairflow" width="45"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
-
 <br>
-
-<img src="https://skillicons.dev/icons?i=spring" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+<img src="https://cdn.simpleicons.org/langgraph" width="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
 <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
-<img src="https://cdn.simpleicons.org/mlflow" width="45"/>
-<img src="https://cdn.simpleicons.org/dvc" width="45"/>
 <img src="https://skillicons.dev/icons?i=docker" width="45"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" width="45"/>
 <img src="https://skillicons.dev/icons?i=githubactions" width="45"/>
 <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/>
 <img src="https://skillicons.dev/icons?i=git" width="45"/>
@@ -97,145 +78,6 @@
 
 ---
 
-<!---
-## Top Repos
-
-<table border="0">
-<tr>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/awesome-ai-agents.svg">
-</a>
-</td>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/NeuroMath">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/NeuroMath.svg">
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/LeakGuard">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/LeakGuard.svg">
-</a>
-</td>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/Plant-Disease-Classification-Using-CNNs">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Plant-Disease-Classification-Using-CNNs.svg">
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/gpu-accelerated-ds-agents">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/gpu-accelerated-ds-agents.svg">
-</a>
-</td>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques.svg">
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/Resume_Analyzer">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/Resume_Analyzer.svg">
-</a>
-</td>
-<td>
-<a href="https://github.com/ARUNAGIRINATHAN-K/FloraMind">
-<img src="https://gh-card.dev/repos/ARUNAGIRINATHAN-K/FloraMind.svg">
-</a>
-</td>
-</tr>
-</table>
-</div>
---->
-<!---
-<div align="center">
-## 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Name 1</h3>
-<div align="center">  
-<a href="https://github.com/yourusername/project1" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/00d9ff?text=Project+Screenshot" width="400" alt="Project 1"/></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/yourusername/project1" target="_blank">
-<img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>  
-<a href="https://project1-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
-</p>
-<p><strong>JavaScript, React, Node.js</strong> - A comprehensive web application with real-time features and modern UI. Built with performance and user experience in mind.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Project Name 2</h3>
-<div align="center">  
-<a href="https://github.com/yourusername/project2" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/a78bfa?text=Project+Screenshot" width="400" alt="Project 2"/></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/yourusername/project2" target="_blank">
-<img src="https://img.shields.io/badge/Code-a78bfa?style=for-the-badge&logo=github&logoColor=black"/>
-</a>  
-<a href="https://project2-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-purple?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>Python, Flask, PostgreSQL</strong> - A powerful backend API with authentication and data visualization. Scalable architecture designed for high performance.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Project Name 3</h3>
-<div align="center">  
-<a href="https://github.com/yourusername/project3" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/fb923c?text=Project+Screenshot" width="400" alt="Project 3"/></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/yourusername/project3" target="_blank">
-<img src="https://img.shields.io/badge/Code-fb923c?style=for-the-badge&logo=github&logoColor=black"/>
-</a>  
-<a href="https://project3-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>TypeScript, Next.js, Tailwind</strong> - Modern e-commerce platform with seamless checkout experience. Optimized for SEO and mobile responsiveness.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Project Name 4</h3>
-<div align="center">  
-<a href="https://github.com/yourusername/project4" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/34d399?text=Project+Screenshot" width="400" alt="Project 4"/></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/yourusername/project4" target="_blank">
-<img src="https://img.shields.io/badge/Code-34d399?style=for-the-badge&logo=github&logoColor=black"/>
-</a>  
-<a href="https://project4-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
-<p><strong>Vue.js, Firebase, Docker</strong> - Real-time collaborative tool for teams. Features include live updates, user management, and cloud deployment.</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
---->
-
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Github Statistics</h2>
 
 <div align="center">
@@ -249,10 +91,6 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true" />
 
-<!--
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60&hide_border=true" />
---->
 
 <!-- Row 3: Profile Details (left) + Activity Graph (right) -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
@@ -260,17 +98,6 @@
 
 </div>
 
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark"/>
-</div> -->
 </div>
 
 ---
