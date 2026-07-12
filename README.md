@@ -4,7 +4,7 @@
 
 ## *AI Assisted SAAS builder | FullStack Developer | Full Time Oper Sourcerer*
 
-*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. Proficient in <br><br>*
+*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. <br><br>*
 
 <p align="center">
     <a href="https://www.linkedin.com/in/arunagirinathan-k">
@@ -42,12 +42,10 @@
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/>
 <img src="https://cdn.simpleicons.org/langchain" width="45"/>
-<br>
 <img src="https://cdn.simpleicons.org/langgraph" width="45"/>
 <img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 <img src="https://skillicons.dev/icons?i=docker" width="45"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="45"/>
 <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/>
 <img src="https://skillicons.dev/icons?i=git" width="45"/>
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
@@ -70,10 +68,6 @@
 🎮 **Level 6**
 [▓▓▓▓░░░░░░] 46%
 <!--SCORE_END-->
-
-</div>
-
----
 
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Github Statistics</h2>
 
