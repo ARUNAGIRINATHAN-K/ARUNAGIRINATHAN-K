@@ -61,12 +61,12 @@
 ## Here’s my GitHub Score, updated daily:
 
 <!--SCORE_START-->
-🏆 **GitHub Score:** 3360
+🏆 **GitHub Score:** 3378
 
 📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
 
 🎮 **Level 6**
-[▓▓▓▓▓▓▓░░░] 72%
+[▓▓▓▓▓▓▓░░░] 75%
 <!--SCORE_END-->
 
 # <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Github Statistics</h2>
