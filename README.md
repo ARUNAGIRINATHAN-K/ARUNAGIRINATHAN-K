@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](Top.png)
+![top](<top.png>)
 
 ## *AI Assisted SAAS builder | FullStack Developer | Full Time Oper Sourcerer*
 
@@ -36,17 +36,13 @@
 
 <img src="https://skillicons.dev/icons?i=python" width="45"/>
 <img src="https://skillicons.dev/icons?i=java" width="45"/>
+<img src="https://skillicons.dev/icons?i=php" width="45"/>
 <img src="https://skillicons.dev/icons?i=spring" width="45"/>
 <img src="https://skillicons.dev/icons?i=html" width="45"/>
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=js" width="45"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/>
-<img src="https://cdn.simpleicons.org/langchain" width="45"/>
-<img src="https://cdn.simpleicons.org/langgraph" width="45"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 <img src="https://skillicons.dev/icons?i=docker" width="45"/>
-<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/>
 <img src="https://skillicons.dev/icons?i=git" width="45"/>
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 
