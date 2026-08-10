@@ -1,6 +1,6 @@
 <div align="center">
 
-![top](<top.png>)
+![top](top.png)
 
 ## *AI Assisted SAAS builder | FullStack Developer | Full Time Oper Sourcerer*
 
