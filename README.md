@@ -1,8 +1,10 @@
+
+
 <div align="center">
 
 ![top](Top.png)
 
-## *AI Assisted SAAS builder | FullStack Developer | Full Time Oper Sourcerer*
+## *AI Assisted SAAS builder | FullStack Developer | Full Time Open Sourcerer*
 
 *AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. <br><br>*
 
