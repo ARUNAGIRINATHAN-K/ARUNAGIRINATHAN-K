@@ -1,6 +1,6 @@
-
-
 <div align="center">
+
+![👋 Hi, my name is ARUNAGIRINATHAN K](https://i.redd.it/dp2kuk914o9y.gif)
 
 ![top](Top.png)
 
