@@ -2,9 +2,7 @@
 
 *A passionate AI Full Stack developer from India*
 
-<img src="https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/> <img src="https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat-square&logo=github&label=Followers" alt="Followers"/> <img src="https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
 
 <br>
 
