@@ -12,7 +12,7 @@ My work focuses on **Agentic AI, Machine Learning, and Full Stack Development**,
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,php,spring,react,html,css,postgres,mysql,github,git,docker)](https://skillicons.dev)
 
-
+* Contact: [arunagirinathan3@gmail.com](mailto:arunagirinathan3@gmail.com)
 * Website: [arunagirinathank.dev](https://arunagirinathank.dev)
 * GitHub: [@ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K)
 * LinkedIn: [in/arunagirinathan-k](https://linkedin.com/in/arunagirinathan-k)
