@@ -1,106 +1,69 @@
-<div align="center">
+# Hi 👋, I'm ARUNAGIRINATHAN-K
 
-![👋 Hi, my name is ARUNAGIRINATHAN K](https://i.redd.it/dp2kuk914o9y.gif)
+*A passionate AI Full Stack developer from India*
 
-![top](Top.png)
+<img src="https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat-square&logo=github&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
 
-## *AI Assisted SAAS builder | FullStack Developer | Full Time Open Sourcerer*
+<br>
 
-*AI & Full-Stack Developer building intelligent systems and real-world ML applications.Experienced across full AI pipeline from data analysis and model training to scalable deployment.Working across data pipelines, ML models, and production-ready AI solutions. <br><br>*
+![header](top.gif)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/arunagirinathan-k">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://arunagirinathan-k.github.io/My-Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://www.instagram.com/_arunagirinathan_k">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://www.kaggle.com/arunsworkspace">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ARUNAGIRINATHAN-K&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/ARUNAGIRINATHAN-K?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/ARUNAGIRINATHAN-K?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars"/>
-  </p>
+My work focuses on **Agentic AI, Machine Learning, and Full Stack Development**, with a strong interest in **open-source collaboration, community projects, fixing bugs, improving docs**. Experienced across full AI pipeline from data analysis and model training to scalable deployment. Working on data pipelines, ML models, and production ready AI application.
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,php,spring,react,html,css,postgres,mysql,github,git,docker)](https://skillicons.dev)
+
+
+* Website: [arunagirinathank.dev](https://arunagirinathank.dev)
+* GitHub: [@ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K)
+* LinkedIn: [in/arunagirinathan-k](https://linkedin.com/in/arunagirinathan-k)
+* Kaggle:  [arunsworkspace](https://www.kaggle.com/arunsworkspace)
+* Hugging Face: [ARUNAGIRINATHAN](https://huggingface.co/ARUNAGIRINATHAN)
+
+<br>
+
+<details>
+  <summary>GitHub Stat</summary>
   
----
-
 <div align="center">
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
-<img src="https://skillicons.dev/icons?i=java" width="45"/>
-<img src="https://skillicons.dev/icons?i=php" width="45"/>
-<img src="https://skillicons.dev/icons?i=spring" width="45"/>
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-<img src="https://skillicons.dev/icons?i=docker" width="45"/>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;border:none;">
+  <tr>
+    <td width="50%" align="center" valign="middle" style="border:none;">
+      <img src="https://ghstats.dev/api/card?username=ARUNAGIRINATHAN-K&border_radius=8" alt="GitHub Stats Overview" width="100%">
+    </td>
+    <td width="50%" align="center" valign="middle" style="border:none;">
+      <img src="https://ghstats.dev/api/langs?username=ARUNAGIRINATHAN-K&layout=grid" alt="Top Languages" width="100%"><img src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=transparent&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&hide_border=true" alt="Contribution Streak" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle" style="border:none;padding:0;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" alt="GitHub Profile Summary" width="100%">
+    </td>
+  </tr>
+</table>
 </div>
 
-</div>
+</details>
 
----
+## Blogs Post
 
-<div align="center">
-  
-## Here’s my GitHub Score, updated daily:
+- [AI Registry Platform](https://ai-agent-registry-kappa.vercel.app/)
+- [AI Agentic Systems & Orchestration: The Architecture Behind Intelligent Automation](https://medium.com/@arun31.march.2k6/ai-agentic-systems-orchestration-the-architecture-behind-intelligent-automation-8fd3ab739b30)
+- [Building a Production-Grade RAG Pipeline for 10 Million Documents with Minimal Hallucinations](https://medium.com/@arun31.march.2k6/building-a-production-grade-rag-pipeline-for-10-million-documents-with-minimal-hallucinations-4a808384fddf)
 
-<!--SCORE_START-->
-🏆 **GitHub Score:** 4419
+## My Open-Source Projects
 
-📊 Formula: (Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)
-
-🎮 **Level 8**
-[▓▓▓▓▓▓▓▓░░] 83%
-<!--SCORE_END-->
-
-# <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Github Statistics</h2>
-
-<div align="center">
-
-<!-- Row 1: 3 equal columns -->
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-<img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARUNAGIRINATHAN-K&theme=dark&cache_seconds=60" />
-
-<!-- Row 2: 2 equal columns (no table borders, freely aligned) -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ARUNAGIRINATHAN-K&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUNAGIRINATHAN-K&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true" />
-
-
-<!-- Row 3: Profile Details (left) + Activity Graph (right) -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUNAGIRINATHAN-K&theme=github_dark" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUNAGIRINATHAN-K&theme=github-compact&cache_seconds=60&hide_border=true" />
-
-</div>
-
-</div>
-
----
+- [AI Registry Platform](https://ai-agent-registry-kappa.vercel.app/) - 500+ AI agents, tools, frameworks, protocols, MCP servers, and infrastructure for developers.
+- [Awesome AI Agents](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) - A curated collection of AI agent frameworks, tools, and resources.
+- [Awesome LLMOpsSec](https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops) - Curated LLM and GenAI security tools, research, frameworks, and practices.
+- [NeuroMath](https://github.com/ARUNAGIRINATHAN-K/NeuroMath) - Mathematical Core of Artificial Neural Networks.
+- [Text Classification](https://github.com/ARUNAGIRINATHAN-K/Text-Classifier-using-NLP_Techniques) - A Text Classification using NLP Techniques.
+- [Data Science Portfolio](https://github.com/ARUNAGIRINATHAN-K/Data-Science-Portfolio) - Collection of simple insightful Data Science projects.
 
 <div align="center">
 
 ## 🤝 Connect With Me
   
-*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, I Contribute to community projects, fixing bugs, improving docs, and building reusable components for data and AI tooling.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunagirinathan-k)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arunagirinathan-k.github.io/My-Portfolio/)
-
+*I'm always open to collaborating on interesting projects, discussing AI/ML innovations, I Contribute <br> to community projects, fixing bugs, improving docs, and building reusable components for data and AI tooling.*
 </div>
-
----
